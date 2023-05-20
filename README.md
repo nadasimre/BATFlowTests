@@ -1,6 +1,8 @@
-# OpticalFlowTests
+# BAT Tests
 
-## Blender Compositing layer setup
+## Tests for optical flow
+
+### Blender Compositing layer setup
 
 <img width="435" alt="setup" src="assets/setup.PNG">
 
